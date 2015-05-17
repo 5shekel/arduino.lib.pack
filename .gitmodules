@@ -1,6 +1,18 @@
-[submodule "libraries/RF24Audio"]
-	path = libraries/RF24Audio
-	url = https://github.com/TMRh20/RF24Audio.git
+[submodule "libraries/FastLED"]
+	path = libraries/FastLED
+	url = https://github.com/FastLED/FastLED.git
+[submodule "OSC"]
+	path = OSC
+	url = https://github.com/CNMAT/OSC.git
+[submodule "libraries/OSC"]
+	path = libraries/OSC
+	url = https://github.com/CNMAT/OSC.git
+[submodule "libraries/Bounce2"]
+	path = libraries/Bounce2
+	url = https://github.com/thomasfredericks/Bounce2.git
 [submodule "libraries/RF24"]
 	path = libraries/RF24
 	url = https://github.com/TMRh20/RF24.git
+[submodule "libraries/RF24Audio"]
+	path = libraries/RF24Audio
+	url = https://github.com/TMRh20/RF24Audio.git
