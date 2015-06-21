@@ -16,12 +16,9 @@ void setup()
 
 void loop()
 {
-    if (MIDI.read())                // If we have received a message
-    {
         digitalWrite(LED,HIGH);
         MIDI.sendNoteOn(42,127,1);  // Send a Note (pitch 42, velo 127 on channel 1)
-        delay(1000);		        // Wait for a second
+        delay(100);		        // Wait for a second
         MIDI.sendNoteOff(42,0,1);   // Stop the note
         digitalWrite(LED,LOW);
-    }
 }

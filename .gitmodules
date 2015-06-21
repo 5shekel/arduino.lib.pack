@@ -16,3 +16,15 @@
 [submodule "libraries/RF24Audio"]
 	path = libraries/RF24Audio
 	url = https://github.com/TMRh20/RF24Audio.git
+[submodule "libraries/Arduino-IRremote"]
+	path = libraries/Arduino-IRremote
+	url = https://github.com/shirriff/Arduino-IRremote
+[submodule "libraries/DMXSerial"]
+	path = libraries/DMXSerial
+	url = https://github.com/mathertel/DMXSerial.git
+[submodule "libraries/Bounce-Arduino-Wiring"]
+	path = libraries/Bounce-Arduino-Wiring
+	url = https://github.com/thomasfredericks/Bounce-Arduino-Wiring
+[submodule "libraries/Adafruit_TCS34725"]
+	path = libraries/Adafruit_TCS34725
+	url = https://github.com/adafruit/Adafruit_TCS34725.git
