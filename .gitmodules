@@ -27,4 +27,4 @@
 	url = https://github.com/thomasfredericks/Bounce-Arduino-Wiring
 [submodule "libraries/Adafruit_TCS34725"]
 	path = libraries/Adafruit_TCS34725
-	url = https://github.com/adafruit/Adafruit_TCS34725.git
+	url = https://github.com/shenkarSElab/Adafruit_TCS34725.git
